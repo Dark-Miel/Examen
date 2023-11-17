@@ -8,3 +8,5 @@
 
 
 [title](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware1.md)
+[title](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware2.md)
+
