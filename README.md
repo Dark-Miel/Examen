@@ -7,6 +7,6 @@
 | **Examen**       | Examen de GIT |
 
 
-[title](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware1.md)
-[title](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware2.md)
+1. [CPU](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware1.md)
+2. [Tarjeta Gráfica](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware2.md)
 
