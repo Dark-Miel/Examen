@@ -1,4 +1,4 @@
-##Neil
+#Neil
 
 | Aspecto          | Descripción                                      |
 | ---------------- | ------------------------------------------------ |
@@ -7,6 +7,6 @@
 | **Examen**       | Examen de GIT |
 
 
-1. [CPU](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware1.md)
-2. [Tarjeta Gráfica](https://github.com/Dark-Miel/Examen/blob/master/hardware/hardware2.md)
+1. [CPU](/hardware/hardware1.md)
+2. [Tarjeta Gráfica](/master/hardware/hardware2.md)
 
