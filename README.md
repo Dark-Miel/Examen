@@ -1,4 +1,5 @@
-#Neil
+##Neil y David
+
 
 | Aspecto          | Descripción                                      |
 | ---------------- | ------------------------------------------------ |
@@ -8,5 +9,6 @@
 
 
 1. [CPU](/hardware/hardware1.md)
-2. [Tarjeta Gráfica](/master/hardware/hardware2.md)
-
+2. [Tarjeta Gráfica](/hardware/hardware2.md)
+3. [grafica](/hardware/hardware3.md)
+4. [cpu](/hardware/hardware4.md)
